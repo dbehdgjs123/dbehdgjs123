@@ -2,4 +2,4 @@
 
 **공부중인 스택:** HTML,css,Es6,Reactjs,Nodejs,Express,C#
 </br>
-**Blog(틈틈히 개발중...):** https://dev-yulog.netlify.app
+**Blog(틈틈 개발중...):** https://dev-yulog.netlify.app
